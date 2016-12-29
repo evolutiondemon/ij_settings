@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[ext_main] - ...\grails-app\views\admin\index.gsp'" />
+    <option name="defaultScopeName" value="File '[ext_main] - ...\grails-app\views\admin\index.gsp'" />
+    <option name="SEARCH_SCOPE" value="File '[ext_main] - ...\grails-app\views\admin\index.gsp'" />
+  </component>
+</application>
