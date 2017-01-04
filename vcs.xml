@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/evolutiondemon/WorldWindJava.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/calfzhou/atlassian-license-study.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\darthatticus\IdeaProjects" />
