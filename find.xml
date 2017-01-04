@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Mr_Ticket_main] - ...\grails-app\controllers\mr_ticket\AdminController.groovy'" />
-    <option name="defaultScopeName" value="File '[Mr_Ticket_main] - ...\grails-app\controllers\mr_ticket\AdminController.groovy'" />
-    <option name="SEARCH_SCOPE" value="File '[Mr_Ticket_main] - ...\grails-app\controllers\mr_ticket\AdminController.groovy'" />
+    <option name="customScope" value="File '[Mr_Ticket_main] - ...\grails-app\views\index.gsp'" />
+    <option name="defaultScopeName" value="File '[Mr_Ticket_main] - ...\grails-app\views\index.gsp'" />
+    <option name="SEARCH_SCOPE" value="File '[Mr_Ticket_main] - ...\grails-app\views\index.gsp'" />
   </component>
 </application>
