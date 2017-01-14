@@ -26,8 +26,12 @@
           <option name="url" value="http://github.com/grails-plugins/grails-spring-security-ldap" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/grails-guides/command-objects-and-forms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\darthatticus\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\dev\projects" />
   </component>
 </application>
