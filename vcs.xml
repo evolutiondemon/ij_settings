@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/grails-guides/command-objects-and-forms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/evolutiondemon/Grails-Active-Directory-LDAP-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\projects" />
