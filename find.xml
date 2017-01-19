@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Mr_Ticket_main] - ...\grails-app\views\login\auth.gsp'" />
-    <option name="defaultScopeName" value="File '[Mr_Ticket_main] - ...\grails-app\views\login\auth.gsp'" />
-    <option name="SEARCH_SCOPE" value="File '[Mr_Ticket_main] - ...\grails-app\views\login\auth.gsp'" />
+    <option name="customScope" value="File '[com.vykin.mnis.helpdesk_main] - ...\com.vykin.mnis.helpdesk\grails-app\views\login\auth.gsp'" />
+    <option name="defaultScopeName" value="File '[com.vykin.mnis.helpdesk_main] - ...\com.vykin.mnis.helpdesk\grails-app\views\login\auth.gsp'" />
+    <option name="SEARCH_SCOPE" value="File '[com.vykin.mnis.helpdesk_main] - ...\com.vykin.mnis.helpdesk\grails-app\views\login\auth.gsp'" />
   </component>
 </application>
