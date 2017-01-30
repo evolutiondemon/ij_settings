@@ -10,7 +10,7 @@
               <id>a656dffc-bc2d-46a9-b097-bea30d642124</id>
             </TransportTarget>
           </option>
-          <option name="targetPath" value="." />
+          <option name="targetPath" value="../" />
         </WebDeploymentTransportHostTarget>
       </list>
     </option>
