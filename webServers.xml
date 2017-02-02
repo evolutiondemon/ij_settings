@@ -5,7 +5,7 @@
         <fileTransfer port="0" mountedRoot="W:\" accessType="MOUNT" />
       </webServer>
       <webServer id="dec7caf7-bbd4-453e-804d-78663c706d58" name="tomcat" url="">
-        <fileTransfer port="0" mountedRoot="T:\" accessType="MOUNT" />
+        <fileTransfer port="0" mountedRoot="N:\" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
