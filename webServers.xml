@@ -1,11 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="93c45a53-5461-4b85-8a0a-15fe1075828e" name="jboss" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="W:\" accessType="MOUNT" />
-      </webServer>
-      <webServer id="dec7caf7-bbd4-453e-804d-78663c706d58" name="tomcat" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="U:\share" accessType="MOUNT" />
+      <webServer id="a2e1e4fb-4408-4763-b5ba-bdf06fb194a4" name="opt" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="Z:\tomcat\webapps" accessType="MOUNT" />
       </webServer>
     </option>
   </component>

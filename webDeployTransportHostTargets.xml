@@ -22,6 +22,16 @@
           </option>
           <option name="targetPath" value="tomcat\guardlog" />
         </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="a2e1e4fb-4408-4763-b5ba-bdf06fb194a4" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="064fa0d9-f261-4c49-a205-297ff3c4a368" />
+              <id>064fa0d9-f261-4c49-a205-297ff3c4a368</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="." />
+        </WebDeploymentTransportHostTarget>
       </list>
     </option>
   </component>
