@@ -4,8 +4,8 @@
       <webServer id="93c45a53-5461-4b85-8a0a-15fe1075828e" name="jboss" url="http://localhost">
         <fileTransfer port="0" mountedRoot="W:\" accessType="MOUNT" />
       </webServer>
-      <webServer id="dec7caf7-bbd4-453e-804d-78663c706d58" name="tomcat" url="">
-        <fileTransfer port="0" mountedRoot="N:\" accessType="MOUNT" />
+      <webServer id="dec7caf7-bbd4-453e-804d-78663c706d58" name="tomcat" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="V:\" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
